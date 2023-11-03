@@ -11,6 +11,7 @@ const Social = () => {
       >
         <i className="uil uil-instagram"></i>
       </a>
+
       <a
         href="https://dribbble.com/"
         className="home_social_icon"
@@ -19,6 +20,7 @@ const Social = () => {
       >
         <i className="uil uil-dribbble"></i>
       </a>
+
       <a
         href="https://github.com/"
         className="home_social_icon"
