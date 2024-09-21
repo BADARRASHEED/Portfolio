@@ -74,13 +74,13 @@ const Qualification = () => {
               </div>
 
               <div>
-                <h3 className="qualification_title">Python Developer</h3>
+                <h3 className="qualification_title">Data Science</h3>
 
                 <span className="qualification_subtitle">
                   Gift - University
                 </span>
                 <div className="qualification_calendar">
-                  <i className="uil uil-calendar-alt"></i>2023 - Present
+                  <i className="uil uil-calendar-alt"></i>2022 - Present
                 </div>
               </div>
             </div>
@@ -93,7 +93,7 @@ const Qualification = () => {
                   Gift - University
                 </span>
                 <div className="qualification_calendar">
-                  <i className="uil uil-calendar-alt"></i>2024 - Present
+                  <i className="uil uil-calendar-alt"></i>2022 - Present
                 </div>
               </div>
 
@@ -118,7 +118,7 @@ const Qualification = () => {
                   Gift - University
                 </span>
                 <div className="qualification_calendar">
-                  <i className="uil uil-calendar-alt"></i>2024 - Present
+                  <i className="uil uil-calendar-alt"></i>2022 - Present
                 </div>
               </div>
             </div>
@@ -133,13 +133,13 @@ const Qualification = () => {
           >
             <div className="qualification_data">
               <div>
-                <h3 className="qualification_title">Power BI Expert</h3>
+                <h3 className="qualification_title">Python Developer</h3>
 
                 <span className="qualification_subtitle">
                   Miracle - Pakistan
                 </span>
                 <div className="qualification_calendar">
-                  <i className="uil uil-calendar-alt"></i>2014 - Present
+                  <i className="uil uil-calendar-alt"></i>2023 - Present
                 </div>
               </div>
 
@@ -150,6 +150,13 @@ const Qualification = () => {
             </div>
 
             <div className="qualification_data">
+              <div></div>
+
+              <div>
+                <span className="qualification_rounder"></span>
+                <span className="qualification_line"></span>
+              </div>
+
               <div>
                 <h3 className="qualification_title">
                   Machine Learning Engineer
@@ -159,13 +166,48 @@ const Qualification = () => {
                   Miracle - Pakistan
                 </span>
                 <div className="qualification_calendar">
-                  <i className="uil uil-calendar-alt"></i>2014 - Present
+                  <i className="uil uil-calendar-alt"></i>2024 - Present
+                </div>
+              </div>
+            </div>
+
+            <div className="qualification_data">
+              <div>
+                <h3 className="qualification_title">
+                  Deep Learning Engineer
+                </h3>
+
+                <span className="qualification_subtitle">
+                  Miracle - Pakistan
+                </span>
+                <div className="qualification_calendar">
+                  <i className="uil uil-calendar-alt"></i>2024 - Present
                 </div>
               </div>
 
               <div>
                 <span className="qualification_rounder"></span>
                 <span className="qualification_line"></span>
+              </div>
+            </div>
+
+            <div className="qualification_data">
+              <div></div>
+
+              <div>
+                <span className="qualification_rounder"></span>
+                <span className="qualification_line"></span>
+              </div>
+
+              <div>
+                <h3 className="qualification_title">Power BI Expert</h3>
+
+                <span className="qualification_subtitle">
+                  Miracle - Pakistan
+                </span>
+                <div className="qualification_calendar">
+                  <i className="uil uil-calendar-alt"></i>2024 - Present
+                </div>
               </div>
             </div>
           </div>
